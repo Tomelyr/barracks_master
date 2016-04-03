@@ -1,0 +1,29 @@
+"addon"
+{
+	"custom_end_screen_legend_cs"					"CS"
+	"custom_end_screen_legend_networth"				"VERMÖGEN"
+	"custom_end_screen_legend_gold"					"GOLD"
+	"custom_end_screen_legend_lumber"				"HOLZ"
+
+	"end_screen_bm_score"							"BM PUNKTE"
+
+	"custom_end_screen_extra_note"					"Punkte werden nur vergeben, wenn das Spiel über 8 Minuten lang war."
+	"custom_end_screen_extra_website"				"Besuche barracksmaster.com um deinen Rank zu sehen."	
+
+	"error_max_unit_count_reached"					"Maximale Anzahl von Einheiten erreicht"
+	"error_max_building_count"						"Gebäude existiert bereits"
+	"error_max_ultimate_towers"						"Es kann nur ein Ultimate Tower gebaut werden"
+	"error_not_enough_gold"							"Nicht genug Gold"	
+	"error_not_enough_lumber"						"Nicht genug Holz"
+	"error_invalid_build_position"					"Ungültiger Bauplatz"
+	"error_cannot_build_in_lane"					"Es kann nicht in der Lange gebaut werden"
+
+	"hero_beastmaster"								"Beastmaster ist gespawnt"
+	"hero_vengeful"									"Vengeful Spirit ist gespawnt"
+	"hero_nevermore"								"Shadow Fiend ist gespawnt"
+	"hero_medusa"									"Medusa ist gespawnt"	
+
+	"alch_gold"										"Alchemist fühlt sich reich und hat dir Gold gespendet. Du hast erhalten: "
+	"give_item_last_stand"							"Du hast eine zusätzliche Aufladung von Last Stand erhalten"
+	"warning_library"								"ACHTUNG: Library of Spells entdeckt"
+}
